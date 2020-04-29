@@ -1,0 +1,2 @@
+rootProject.name='AppProfileUI'
+include ':app'
